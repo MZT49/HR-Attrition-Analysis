@@ -130,7 +130,7 @@ hr-attrition-analysis/
 ## SQL Queries
 
 Five queries covering the full analysis see 
-[`queries/attrition_analysis.sql`](queries/attrition_analysis.sql):
+[`queries/attrition_analysis.sql`](queries/Attrition_Analysis.sql):
 
 1. Overall Attrition Rate by Department
 2. Attrition by Job Role
